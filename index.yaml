@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  cert-manager-webhook-ns1:
+  - apiVersion: v1
+    appVersion: v0.1.0
+    created: "2024-07-25T01:41:00.456979561+03:00"
+    description: NS1 Webhook for Cert Manager
+    digest: 6e0f38a9287a082034fd9d7bfeccb22765411ff1297eedfa30d729b4a160d6de
+    name: cert-manager-webhook-ns1
+    urls:
+    - https://qipeit.github.io/helm-charts/cert-manager-webhook-ns1-0.4.3.tgz
+    version: 0.4.3
+generated: "2024-07-25T01:41:00.456416173+03:00"

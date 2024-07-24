@@ -1,0 +1,3 @@
+[submodule "submodules/cert-manager-webhook-ns1"]
+	path = submodules/cert-manager-webhook-ns1
+	url = https://github.com/ns1/cert-manager-webhook-ns1
